@@ -1,0 +1,7 @@
+development:
+  adapter: oracle_enhanced
+  host: localhost
+  database: XE
+  username: RAILS
+  password: railspassword
+  
